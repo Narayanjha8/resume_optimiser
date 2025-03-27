@@ -97,11 +97,3 @@ if st.button("🔎 Submit"):
     else:
         st.warning("⚠️ Please upload a resume and enter a job description.")
 
-# import google.generativeai as genai
-
-# genai.configure(api_key="AIzaSyDNLtL2SuJrGJ2Q0lFwiv3a3EFc5RnuoZU")  # Replace with your actual key
-
-# models = genai.list_models()
-# for model in models:
-#     print(model.name)
-
